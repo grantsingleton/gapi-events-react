@@ -6,4 +6,4 @@
 * npm start
 
 ## Using the API
-* Add your own Client Id and Api Key
+* Add your own Client Id and Api Key to App.js
